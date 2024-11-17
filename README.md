@@ -20,15 +20,20 @@
 ---
 
 ### 📬 Let's Connect:
-<p align="left">
-  <a href="https://www.linkedin.com/in/harshass/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="25" height="25"/>
-  </a>
-  <a href="https://codebasics.io/portfolio/Harsha-S-S/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/769c9b0d-0d5f-42d4-a0c4-cd2441bdc317" alt="Portfolio" width="20" height="20"/>
-  </a>
-</p>
+<ul style="list-style-type: none; padding: 0; display: flex; gap: 10px;">
+  <li>
+    <a href="https://www.linkedin.com/in/harshass/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="25" height="25"/>
+    </a>
+  </li>
+  <li>
+    <a href="https://codebasics.io/portfolio/Harsha-S-S/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/769c9b0d-0d5f-42d4-a0c4-cd2441bdc317" alt="Portfolio" width="20" height="20"/>
+    </a>
+  </li>
+</ul>
 
-https://codebasics.io/portfolio/Harsha-S-S
+
+
 
 ✨ **Let’s transform data into stories together!**  
