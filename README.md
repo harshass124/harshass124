@@ -25,9 +25,10 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://your-portfolio-link.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/769c9b0d-0d5f-42d4-a0c4-cd2441bdc317" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ✨ **Let’s transform data into stories together!**  
