@@ -20,7 +20,14 @@
 ---
 
 ### 📬 Let's Connect:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/harshass124/)  
-- 📧 Email: harsha1242000@gmail.com  
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://your-portfolio-link.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" width="40" height="40"/>
+  </a>
+</p>
+
 
 ✨ **Let’s transform data into stories together!**  
