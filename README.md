@@ -1,4 +1,5 @@
-![gif](https://github.com/user-attachments/assets/b54e8729-a6cf-42ff-9152-839500d76ebe)
+<img src="https://github.com/user-attachments/assets/b54e8729-a6cf-42ff-9152-839500d76ebe" alt="GIF Description" width="500">
+
 
 
 
