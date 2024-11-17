@@ -28,15 +28,16 @@
   </li>
   <li>
     <a href="https://codebasics.io/portfolio/Harsha-S-S/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/769c9b0d-0d5f-42d4-a0c4-cd2441bdc317" alt="Portfolio" width="20" height="20"/>
+      <img src="https://github.com/user-attachments/assets/769c9b0d-0d5f-42d4-a0c4-cd2441bdc317" alt="Portfolio" width="25" height="25"/>
     </a>
   </li>
   <li>
     <a href="mailto:harsha1242000@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/google-mail.png" alt="Gmail" width="25" height="25"/>
+      <img src="https://github.com/user-attachments/assets/11d2ce93-e210-4164-b62e-67249da68afe" alt="Gmail" width="20" height="20"/>
     </a>
   </li>
 </ul>
+
 
 
 
