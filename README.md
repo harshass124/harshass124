@@ -3,7 +3,7 @@
 
 
 
-# 👋 Hello, World! I'm Harsha SS (@harshass124)
+# 👋 Hello, World! I'm Harsha SS
 
 
 ### 🚀 About Me:
